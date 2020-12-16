@@ -2,6 +2,7 @@
 # Santas AI Helper
 
 Building AI course project
+
 Merry Christmas. Santa needs all the help he can get, and this AI helper will propose the ultimate christmas present for every person on Earth.
 
 ## Summary
