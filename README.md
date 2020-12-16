@@ -36,6 +36,7 @@ One option would also be to include a nauhtyness-niceness parameter in the proce
 
 ## Acknoledgments
 https://en.wikipedia.org/wiki/Joulupukki
+
 https://santaclausfinland.fi/korvatunturi/
 
 # Merry Christmas! :-)
