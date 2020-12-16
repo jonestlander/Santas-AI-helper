@@ -34,5 +34,8 @@ In the future, Santas AI helper could be extended to also cover Birthday present
 
 One option would also be to include a nauhtyness-niceness parameter in the process, which would affect how optimal the present calculated by Santas AI Helper is for that person.
 
+## Acknoledgments
+https://en.wikipedia.org/wiki/Joulupukki
+https://santaclausfinland.fi/korvatunturi/
 
 # Merry Christmas! :-)
