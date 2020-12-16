@@ -14,13 +14,13 @@ The solution will be in the form of a mobile app, which Santa and whoever is loo
 
 Then the user inputs the previous favourite Christmas presents for the person to whom they are looking for a new present, and the current age of the person.
 
-The output is the AI-oprimized Christmas presen for that person.
+The output is the AI-oprimized Christmas present for that person.
 
 Integration with any of the large online stores or warehouses is optional. Santa of course will not need this, he has his own production facilities in Korvatunturi.
 
 ## Data sources and AI methods
 
-The data source to train the AI algorithm will be lists of individual persons favourite Christmas gifts at different ages. Santa will have a complete records of this in his big books, which are in the process of being digitalized be all the little tonttus (elves).
+The data source to train the AI algorithm will be lists of one persons favourite Christmas gifts at different ages. Santa will have the complete records of this in his Big Books, which are in the process of being digitalized be all the little tonttus (elves).
 
 The main AI method to use is Logistic Regression
 
@@ -31,5 +31,8 @@ The largest challenge I see is to somehow quantify the nuerous options for Chris
 ## What next?
 
 In the future, Santas AI helper could be extended to also cover Birthday presents, gifts for weddings, marriage anniversaries and so on.
+
+One option would also be to include a nauhtyness-niceness parameter in the process, which would affect how optimal the present calculated by Santas AI Helper is for that person.
+
 
 # Merry Christmas !!! :-)
